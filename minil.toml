@@ -1,0 +1,5 @@
+name = "Acme-BBS-Hostnames-Japanese"
+# badges = ["travis-ci.com"]
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
