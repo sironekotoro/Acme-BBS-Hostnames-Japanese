@@ -40,11 +40,3 @@ it under the same terms as Perl itself.
 # AUTHOR
 
 sironekotoro <develop@sironekotoro.com>
-
-# POD ERRORS
-
-Hey! **The above document had some coding errors, which are explained below:**
-
-- Around line 154:
-
-    &#x3d;over should be: '=over' or '=over positive\_number'

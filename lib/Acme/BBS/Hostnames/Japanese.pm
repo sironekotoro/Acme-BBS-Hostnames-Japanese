@@ -151,7 +151,7 @@ Acme::BBS::Hostnames::Japanese  was created for practice and my work.
 
 Corresponds to three famous bulletin boards in Japan.
 
-=over indentlevel
+=over
 
 =item L<2ch|https://www.2ch.sc>
 
